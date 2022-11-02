@@ -7,7 +7,7 @@
 - 🌐 Procuro ajuda para expandir meu networking
  
 <p align="left">
-  <img alt="" src="[https://user-images.githubusercontent.com/110994241/197631019-5244d6af-4dd0-4cf0-a713-ea87d14a4a36.gif](https://user-images.githubusercontent.com/69468112/199515669-08c0976d-9afc-42ba-a074-f5f1284a3f63.gif)"/>
+  <img alt="" src="https://user-images.githubusercontent.com/69468112/199515669-08c0976d-9afc-42ba-a074-f5f1284a3f63.gif"/>
 </p>
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-iran-a486a7170/)
