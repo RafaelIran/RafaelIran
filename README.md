@@ -6,7 +6,7 @@
 - 📚 Estou estudando javascript.
 - 🌐 Procuro ajuda para expandir meu networking
  
-<p align="left">
+<p style="width: 575px"align="left">
   <img alt="" src="https://user-images.githubusercontent.com/69468112/199518301-1bb7b252-4eb8-41f9-8281-bc8cef47104f.gif"/>
 </p>
 
