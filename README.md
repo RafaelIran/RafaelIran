@@ -28,8 +28,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Sempre em busca de conhecimento, pois só ele transforma.
-
 ## Contato:
 
 - 🏰 Entre em contato comigo pelo meu e-mail = rafael9.rr@gmail.com
