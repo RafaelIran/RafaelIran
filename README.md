@@ -13,7 +13,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-iran-a486a7170/)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael__iran/)
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtonj&show_icons=true&theme=dracula)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelIran&show_icons=true&theme=dracula)
 
 <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
@@ -34,5 +34,5 @@
     
 </div>
 
-![snake gif](https://github.com/JailtonJ/JailtonJ/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RafaelIran/RafaelIran/blob/output/github-contribution-grid-snake.svg)
 
