@@ -10,7 +10,7 @@
   <img alt="" src="https://user-images.githubusercontent.com/69468112/199518301-1bb7b252-4eb8-41f9-8281-bc8cef47104f.gif"/>
 </p>
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-iran-a486a7170/)
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-iran/)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael__iran/)
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelIran&show_icons=true&theme=dracula)
